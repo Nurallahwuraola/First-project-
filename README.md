@@ -1,4 +1,4 @@
-# First-project
+# profile-v1
 
 
 Responsive portfolio built with Flexbox (navbar) and CSS Grid (projects)
