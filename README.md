@@ -12,7 +12,7 @@ Responsive portfolio built with Flexbox (navbar) and CSS Grid (projects)
 - Responsive Design
 
 ## Live Link
-https://nurallahwuraola.github.io/First-project-/
+https://nurallahwuraola.github.io/profile-v1-/
 
 ## Sections
 - Hero, About, Projects (3 cards), Contact
